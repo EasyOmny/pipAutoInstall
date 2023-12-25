@@ -70,4 +70,4 @@
 ###### Документация
 
 >Ссылка
->>[Пока нет!]()
+>>[EasyOmny docs](https://easyomny.github.io/docs/pages/pipAutoInstall.html)
